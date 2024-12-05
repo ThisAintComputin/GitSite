@@ -9,7 +9,7 @@ SurpAssist webview uses <font color="rgb(2,69,107)">RichText</font> which lets y
 This uses RichText. Check the roblox DevForumn for a list of tags and formats.;
 All you need to know is that you start your emssage with a Forwards Slash to;
 make it a comment. Each tag has a tag name "B" (bold) and a property " color="rgb(255,255,255)" ".;
-Please note that this is <b>NOT HTML</b> although it does share the same tag and property system.
-Currently doesn't support scripting, only static pages.
-
-<b>RAW PAGE: </b> 
+Please note that this is <b>NOT HTML</b> although it does share the same tag and property system.;
+Currently doesn't support scripting, only static pages.;
+;
+<b>PAGE SOURCE: https://raw.githubusercontent.com/ThisAintComputin/GitSite/refs/heads/main/surpassist-webview-documentation</b> ;
